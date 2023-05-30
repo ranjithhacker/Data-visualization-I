@@ -47,14 +47,21 @@ sbn.scatterplot(df['Sales'],df['Profit'],hue=df['Region'])
 ```
 # OUPUT
 ## Data Visualization - Superstore.csv
-![Data_Visualization](/images/img.png) 
-![Data_Visualization](/images/img2.png)
-![Data_Visualization](/images/img3.png)
-![Data_Visualization](/images/img4.png)
-![Data_Visualization](/images/img5.png)
-![Data_Visualization](/images/img6.png)
-![Data_Visualization](/images/img7.png)
-![Data_Visualization](/images/img8.png)
+![img](https://github.com/ranjithhacker/Data-visualization-I/assets/129825315/894236da-f9c8-4402-a8aa-96be5267afa0)
+
+![img2](https://github.com/ranjithhacker/Data-visualization-I/assets/129825315/3061767f-b8a9-4d49-9dfb-a45ad2a996e7)
+
+![img3](https://github.com/ranjithhacker/Data-visualization-I/assets/129825315/73d888ae-f245-4e01-b37e-16f6b7fa892e)
+
+![img4](https://github.com/ranjithhacker/Data-visualization-I/assets/129825315/513e8516-924d-403a-a718-9fd4268a87ef)
+
+![img5](https://github.com/ranjithhacker/Data-visualization-I/assets/129825315/1d997677-6574-4fea-a8f5-fc6d08d3d270)
+
+![img6](https://github.com/ranjithhacker/Data-visualization-I/assets/129825315/3e9e6f06-e82e-4b13-a5a3-2f94a33b4b4c)
+
+![img7](https://github.com/ranjithhacker/Data-visualization-I/assets/129825315/c476fd65-24a3-4f34-9ea6-7730a150d58a)
+
+![img8](https://github.com/ranjithhacker/Data-visualization-I/assets/129825315/4280ab1f-c43b-42f0-b9b5-e7292e37a569)
 
 
 # RESULT
